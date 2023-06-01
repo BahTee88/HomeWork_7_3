@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ClassWork_25_05_2023</string>
+    <string name="trucks">TRUCKS</string>
+    <string name="hello">Hello</string>
+    <string name="semi_truck">semi_truck</string>
+    <string name="Semi_truck">Semi_truck</string>
+    <string name="description">Description</string>
+    <string name="color">Color</string>
+    <string name="sum">Sum</string>
+    <string name="todo">TODO</string>
+    <string name="title">title</string>
+</resources>
